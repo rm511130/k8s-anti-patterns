@@ -1,4 +1,4 @@
-# Gravitational Workshops
+# K8s Anti-Patterns Workshops
 
 Open source series of workshops delivered by Gravitational services team.
 

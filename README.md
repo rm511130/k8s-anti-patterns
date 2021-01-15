@@ -4,7 +4,7 @@ Open source series of workshops delivered by Gravitational services team.
 
 * [Docker 101 workshop](docker.md)
 * [Kubernetes 101 workshop using Minikube and Mattermost](k8s101.md)
-* [Kubernetes production patterns](k8sprod.md)
+* [Kubernetes production patterns <-- Main reason for fork](k8sprod.md)
 * [Kubernetes security patterns](k8ssecurity.md)
 * [Kubernetes custom resources](crd/crd.md)
 * [Gravity 101](gravity101.md)
